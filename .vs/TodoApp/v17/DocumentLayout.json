@@ -1,7 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\andyn\\source\\repos\\TodoApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\migrations\\tododbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\migrations\\tododbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\migrations\\20260109003607_todoapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\migrations\\20260109003607_todoapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\migrations\\20260109003607_todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\migrations\\20260109003607_todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\controllers\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\andyn\\source\\repos\\TodoApp\\README.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|c:\\users\\andyn\\source\\repos\\todoapp\\todoapp\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2E8A7-B1CF-4B22-9C96-9414B18142FC}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\TodoItemDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +74,226 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\Category.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:18:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoDbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\TodoDbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Migrations\\TodoDbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\TodoDbModelSnapshot.cs",
+              "RelativeToolTip": "TodoApp\\Migrations\\TodoDbModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:00:08.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260109003607_TodoApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20260109003607_TodoApp.Designer.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Migrations\\20260109003607_TodoApp.Designer.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20260109003607_TodoApp.Designer.cs",
+              "RelativeToolTip": "TodoApp\\Migrations\\20260109003607_TodoApp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:00:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260109003607_TodoApp.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20260109003607_TodoApp.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Migrations\\20260109003607_TodoApp.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20260109003607_TodoApp.cs",
+              "RelativeToolTip": "TodoApp\\Migrations\\20260109003607_TodoApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:00:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoDb.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoDb.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:20:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAABABAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-07T23:57:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TodoApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\appsettings.Development.json",
+              "RelativeToolTip": "TodoApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T00:34:41.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:50:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeToolTip": "TodoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T00:15:37.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:19:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "TodoApp\\Models\\TodoItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:19:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Category.cs",
+              "RelativeToolTip": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:08:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoApp.csproj",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeDocumentMoniker": "TodoApp\\TodoApp.csproj",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeToolTip": "TodoApp\\TodoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T00:25:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\TodoApp\\TodoApp\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "TodoApp\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:22:02.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Todo.cs",
+              "RelativeToolTip": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:08:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Models\\TodoItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:08:47.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\andyn\\source\\repos\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "..\\UrlShortner\\FirstAPIProject\\FirstAPIProject\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:07:40.16Z"
             }
           ]
         }
