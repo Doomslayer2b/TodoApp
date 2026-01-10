@@ -23,10 +23,17 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-
+//Allows CORS for all origins, methods, and headers (for demo purposes)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReact",
+        policy => policy.WithOrigins("http://localhost:5173")
+                       .AllowAnyHeader()
+                       .AllowAnyMethod());
+});
 
 var app = builder.Build();
-
+app.UseCors("AllowReact");
 // Swagger middleware (only dev environment)
 if (app.Environment.IsDevelopment())
 {
